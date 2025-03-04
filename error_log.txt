@@ -1,0 +1,3 @@
+2025-01-27 14:01:48 Value Error for operation 'sub'.
+2025-01-27 14:10:06 Invalid operation 'd' selected.
+2025-01-27 14:25:03: Error:Division by Zero is not allowed. for operation 'div'.
